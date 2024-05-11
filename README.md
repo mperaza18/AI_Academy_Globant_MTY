@@ -15,7 +15,7 @@ We will cover those topics on a high level without going to deep on those areas.
 ![alt text](Python_Plugin.png)
 5. Acceso a GitHub
    - AI Academy repo: https://github.com/mike-peraza/AI_Academy_Globant_MTY
-   - If you don't have access to the Globant Github, you will need to creata a ticket for it on ServiceNow.
+   - If you don't have access to the Globant Github, you will need to creata a ticket for it on [ServiceDesk](https://tickets.corp.globant.com/incident/create).
 
 ## Academy Content
 - Module 0: Fundamentals of Python Programing
